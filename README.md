@@ -2,6 +2,9 @@
 
 A curated list of awesome SurrealDB resources, libraries, tools, and applications.
 
+## Contents
+- [Applications](#applications)
+
 ## Applications
 
 - [Surrealist](https://github.com/StarlaneStudios/Surrealist) - A lightning-fast graphical SurrealDB query playground on the desktop.
